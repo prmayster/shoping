@@ -106,7 +106,7 @@
 // const user = 'toys';
 // alert(`YYIII?, ${user}`);
 
-console.log('arr' + "-object");
+// console.log('arr' + "-object");
 
 
 // sncrement
@@ -165,7 +165,5 @@ function randomInteger( min, max) {
 }
 
 console.log( randomInteger(100));
-
-
 
 let str = 'Hello';
